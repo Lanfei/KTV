@@ -1,4 +1,4 @@
 KTV
 ===
 
-A KTV management system
+一个开源的Java Swing KTV管理系统
